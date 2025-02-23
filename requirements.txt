@@ -1,0 +1,5 @@
+roboflow==1.1.54
+chardet==5.2.0
+gradio==5.16.0
+torch 
+torchvision
