@@ -6,7 +6,7 @@ sdk_version: 5.17.1
 ---
 # AI 테크 리더 고모부가 조카와 티니핑 놀이를 하는 방법 
 
-YouTube(TBU) | HuggingFace(TBU) | [Free E-Book](https://www.uppage.com/instmmismin/gradio-dist)
+YouTube(TBU) | [HuggingFace Space](https://huggingface.co/spaces/JungminChung/teenieping) | [Free E-Book](https://www.uppage.com/instmmismin/gradio-dist)
 
 ![main](source/main.png)
 
